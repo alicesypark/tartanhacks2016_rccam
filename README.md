@@ -1,8 +1,11 @@
 # tartanhacks2016_rccam
 
 ---
+
 1. Set up for Raspberry Pi
 2. Set up for Android application
+
+
 ---
 
 ### 1. Set up for Raspberry Pi 
