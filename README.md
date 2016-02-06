@@ -12,7 +12,6 @@ The Future Generation Surveillance Camera is an RC car controlled by a mobile de
 * Jiyeon Hwang (jhwang1)
 
 ---
----
 
 ## INSTRUCTIONS
 
