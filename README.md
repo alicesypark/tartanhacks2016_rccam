@@ -1,10 +1,19 @@
-# tartanhacks2016_rccam
+# Future Generation Surveillance Camera
+
+---
+
+Project for TartanHacks 2016 at Carnegie Mellon Unviersity. The Future Generation Surveillance Camera is an RC car controlled by a mobile device via WiFi and supports real-time video streaming. 
+
+##### Team Members
+Kyuin Lee (kyuinl)
+Alice Park (seongyeo)
+Won Chung (wonchung)
+Jiyeon Hwang (jhwang1)
 
 ---
 
 1. Set up for Raspberry Pi
 2. Set up for Android application
-
 
 ---
 
